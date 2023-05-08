@@ -1,3 +1,12 @@
+# Home Page : (Incremented)
+![image](https://user-images.githubusercontent.com/98873382/236830187-1965adee-8d3f-4dc5-9932-b52a460f3d07.png)
+
+# Home Page : (Decrement)
+![image](https://user-images.githubusercontent.com/98873382/236830339-bcc436ab-44db-45ef-bb5a-acfbe72722ba.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
